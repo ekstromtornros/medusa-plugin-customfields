@@ -8,7 +8,7 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa Plugin Starter
+  Medusa Plugin Custom Fields
 </h1>
 
 <h4 align="center">
