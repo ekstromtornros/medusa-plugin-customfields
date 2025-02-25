@@ -1,8 +1,8 @@
 {
   "name": "medusa-plugin-customfields",
   "version": "0.0.1",
-  "description": "A starter for Medusa plugins.",
-  "author": "Medusa (https://medusajs.com)",
+  "description": "Custom Fields for Medusa 2.0",
+  "author": "Andreas Ekström <didair@msn.com>",
   "license": "MIT",
   "files": [
     ".medusa/server"
